@@ -10281,7 +10281,7 @@ header.masthead .masthead-heading {
 }
 .timeline > li.timeline-inverted > .timeline-panel {
   float: right;
-  padding: 0 20px 0 100px;
+  padding: 200px 20px 0 100px;
   text-align: left;
 }
 .timeline > li.timeline-inverted > .timeline-panel:before {
